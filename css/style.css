@@ -1,0 +1,29 @@
+html, body {
+    height: 85%;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+body {
+    overflow-x: hidden;
+    padding: 20px 100px;
+    background-color: #fbfbfb;
+}
+
+.md-source {
+    width: 45%;
+    height: 100%;
+    font-size: 13px;
+    padding: 10px;
+    border-radius: 4px;
+    overflow: auto;
+}
+
+.md-content {
+    float: right;
+    width: 45%;
+    height: 100%;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
